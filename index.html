@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div id="hero" class="d-flex flex-column justify-content-center w-100">
+<div id="hero" class="font-alt d-flex flex-column justify-content-center w-100">
     <h1 class="text-center text-white display-4 mb-3">
         Student Start-Up Crawl
     </h1>
@@ -13,25 +13,27 @@ layout: default
 </div>
 
 
-<div class="container">
-    <div class="row">
+<div class="container border-left">
 
-    <p class="col-12 col-md-8 border-bottom border-right">
-        "ATX Student Startup Crawl is a free experiential field trip for middle and high school students in the larger Austin metro area, to help them visualize their futures and introduce them to what careers are available in  STEM.  We are working with companies across the spectrum, from Techstars to RetailMeNot to introduce students to opportunities in Austin."
-    </p>
+    <div class="row my-5">
+        <div class="col-12 p-5">
+            <p class="w-75 mx-auto">
+                ATX Student Startup Crawl is a free experiential field trip for middle and high school students in the larger Austin metro area, to help them visualize their futures and introduce them to what careers are available in  STEM.  We are working with companies across the spectrum, from Techstars to RetailMeNot to introduce students to opportunities in Austin.
+            </p>
+        </div>
 
-    <h3 class="col-12 col-md-4 text-center size-2">
-        <a href="https://www.eventbrite.com/e/atx-student-start-up-crawl-tickets-53350943107">
-            Find us on EventBrite! <i class="fas fa-arrow-circle-right"></i>
-        </a>
+        <div class="col-12 py-5 text-center">
+            <a
+                href="https://www.eventbrite.com/e/atx-student-start-up-crawl-tickets-53350943107"
+                class="btn btn-success">
+                Find us on EventBrite! <i class="fas fa-arrow-circle-right"></i>
+            </a>
+        </div>
+    </div>
+
+    <h3 class="text-center my-5 mx-auto size-2">
+        Our sponsors:
     </h3>
 
-    </div>
+    {% include logo-section.html %}
 </div>
-
-
-<h3 class="text-center my-5 mx-auto size-2">
-    Our sponsors:
-</h3>
-
-{% include logo-section.html %}
