@@ -1,0 +1,36 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
+    background-color: #c6ced1;
+}
+
+.margin-top-1 {
+    margin-top: 6rem;
+}
+
+.size-1 {
+    font-size: 3rem;
+}
+
+.size-2 {
+    font-size: 2.5rem;
+}
+
+#hero {
+    background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url('/assets/img/nesa-by-makers-737053-unsplash.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size:  cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    min-height: 65vh;
+}
+
+.logo-div {
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
