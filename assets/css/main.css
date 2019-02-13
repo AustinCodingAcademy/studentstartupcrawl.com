@@ -21,7 +21,7 @@ body {
 }
 
 #hero {
-    background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url('/assets/img/nesa-by-makers-737053-unsplash.jpg');
+    background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url('/assets/img/nesa-by-makers-737053-unsplash_compressed.jpg');
     -webkit-background-size: cover;
     -moz-background-size:  cover;
     -o-background-size: cover;
