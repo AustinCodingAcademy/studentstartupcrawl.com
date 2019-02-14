@@ -21,12 +21,13 @@ body {
 }
 
 #hero {
-    background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url('/assets/img/nesa-by-makers-737053-unsplash_compressed.jpg');
+    background: linear-gradient( rgba(30, 0, 70, 0.7), rgba(0, 0, 0, 0.95) ), url('/assets/img/IMG_3812-compressed.jpg');
     -webkit-background-size: cover;
     -moz-background-size:  cover;
     -o-background-size: cover;
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
 
     min-height: 65vh;
 }

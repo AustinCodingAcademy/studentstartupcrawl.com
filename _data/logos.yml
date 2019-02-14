@@ -26,13 +26,13 @@
 
 - href: "https://www.divinc.org"
   alt: "Div Inc Logo"
-  src: "/assets/img/logo/HTML5.png"
-  width: "512px"
-  height: "512px"
+  src: "/assets/img/logo/divinc.png"
+  width: "1500px"
+  height: "672px"
 
 - href: "https://www.edlio.com"
   alt: "Edlio Logo"
-  src: "https://edlio.com/pics/edlio_full.svg"
+  src: "/assets/img/logo/edlio_full.svg"
   width: "186px"
   height: "37px"
 
@@ -74,9 +74,9 @@
 
 - href: "https://www.trendkite.com"
   alt: "TrendKite Logo"
-  src: "https://www.trendkite.com/hubfs/Trendkite-New/images/TRENDKITE-W_logo.svg"
-  width: "184px"
-  height: "23.4px"
+  src: "/assets/img/logo/trendkite.webp"
+  width: "763px"
+  height: "101px"
 
 - href: "https://www.wework.com"
   alt: "WeWork Logo"
