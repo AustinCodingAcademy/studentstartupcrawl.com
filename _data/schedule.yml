@@ -1,0 +1,142 @@
+- group: 1 - Mindy (Route&nbsp;B)
+  schools:
+    - Magellan (11)
+    - Premier (10)
+    - APA (9)
+  locations:
+    - Capital Factory | 11:35&nbsp;-&nbsp;12:00 (Keynote)
+    - Aceable | 12:15&nbsp;-&nbsp;12:30
+    - Div Inc | 12:45&nbsp;-&nbsp;1:00
+    - Galvanize | 1:15&nbsp;-&nbsp;1:30
+    - Retail Me Not | 1:45&nbsp;-&nbsp;2:00
+  chaperones:
+    - Patrick Benfield
+    - Laura Escudero
+
+- group: 2 - Jules (Route&nbsp;B)
+  schools:
+    - Pflugerville  (21)
+    - Manor HS (8)
+  locations:
+    - Capital Factory | 11:35&nbsp;-&nbsp;12:00 (Keynote)
+    - Edlio | 12:15&nbsp;-&nbsp;12:30
+    - Retail Me Not | 12:45&nbsp;-&nbsp;1:00
+    - Div Inc | 1:15&nbsp;-&nbsp;1:30
+    - WeWork | 1:45&nbsp;-&nbsp;2:00
+  chaperones:
+    - David Polansky
+    - Jennifer Persons
+    - Kathy Blankenship
+
+- group: 3 - Scott (Route&nbsp;B)
+  schools:
+    - Crockett HS (32)
+  locations:
+    - Capital Factory | 11:35&nbsp;-&nbsp;12:00 (Keynote)
+    - Retail Me Not | 12:15&nbsp;-&nbsp;12:30
+    - Edlio | 12:45&nbsp;-&nbsp;1:00
+    - Trendkite | 1:15&nbsp;-&nbsp;1:30
+    - Google Fiber | 1:45&nbsp;-&nbsp;2:00
+  chaperones:
+    - Desiree Morales
+    - Roger Morgan
+    - Aryn LaFosse
+
+- group: 4 - Katy (Route&nbsp;B)
+  schools:
+    - Weiss HS (15)
+    - Westwood HS 1 (15)
+  locations:
+    - Capital Factory | 11:35&nbsp;-&nbsp;12:00 (Keynote)
+    - Galvanize | 12:15&nbsp;-&nbsp;12:30
+    - Google Fiber | 12:45&nbsp;-&nbsp;1:00
+    - Aceable | 1:15&nbsp;-&nbsp;1:30
+    - Div Inc | 1:45&nbsp;-&nbsp;2:00
+  chaperones:
+    - Simone Dietch
+
+- group: 5 - Leena (Route&nbsp;B)
+  schools:
+    - Westwood HS 2 (25)
+  locations:
+    - Capital Factory | 11:35&nbsp;-&nbsp;12:00 (Keynote)
+    - WeWork | 12:15&nbsp;-&nbsp;12:30
+    - Austin Coding Academy | 12:45&nbsp;-&nbsp;1:00
+    - Google Fiber | 1:15&nbsp;-&nbsp;1:30
+    - Aceable | 1:45&nbsp;-&nbsp;2:00
+  chaperones:
+    - Lucy Riusech
+    - Natalia Riusech
+
+- group: 6 - Dani (Route&nbsp;A)
+  schools:
+    - Eastside HS (26)
+  locations:
+    - Capital Factory | 11:00&nbsp;-&nbsp;11:30 (Keynote)
+    - Retail Me Not | 11:45&nbsp;-&nbsp;12:00
+    - TechStars | 12:15&nbsp;-&nbsp;12:30
+    - Aceable | 12:45&nbsp;-&nbsp;1:00
+    - WeWork | 1:15&nbsp;-&nbsp;1:30
+  chaperones:
+    - Ryan O'Donnell
+    - Yesica Diaz
+    - Valerie Garza
+
+- group: 7 (Route&nbsp;A)
+  schools:
+    - Kipp 1 (15)
+    - Kipp 2 (15)
+  locations:
+    - Capital Factory | 11:00&nbsp;-&nbsp;11:30 (Keynote)
+    - Sputnik | 11:45&nbsp;-&nbsp;12:00
+    - Sputnik | 12:15&nbsp;-&nbsp;12:30
+    - Trendkite | 12:45&nbsp;-&nbsp;1:00
+    - Capital Factory | 1:15&nbsp;-&nbsp;1:30
+  chaperones:
+    - George Ramirez
+    - Aron Hill
+
+- group: 8 (Route&nbsp;A)
+  schools:
+    - Kipp 3 (10)
+    - Westlake 3 (20)
+  locations:
+    - Capital Factory | 11:00&nbsp;-&nbsp;11:30 (Keynote)
+    - Google Fiber | 11:45&nbsp;-&nbsp;12:00
+    - Austin Coding Academy | 12:15&nbsp;-&nbsp;12:30
+    - WeWork | 12:45&nbsp;-&nbsp;1:00
+    - Edlio | 1:15&nbsp;-&nbsp;1:30
+  chaperones:
+    - Lauren Burke
+    - Emily Tipps
+    - Jennifer Flood
+
+- group: 9 (Route&nbsp;A)
+  schools:
+    - Westlake 1 (20)
+    - Westlake 2 (10)
+  locations:
+    - Capital Factory | 11:00&nbsp;-&nbsp;11:30 (Keynote)
+    - Aceable | 11:45&nbsp;-&nbsp;12:00
+    - Google Fiber | 12:15&nbsp;-&nbsp;12:30
+    - Edlio | 12:45&nbsp;-&nbsp;1:00
+    - Retail Me Not | 1:15&nbsp;-&nbsp;1:30
+  chaperones:
+    - Lisa Johnson
+    - Chris Hanson
+    - Dillon Finan
+    - Clement Chiwaula
+
+- group: 10 (Route&nbsp;A)
+  schools:
+    - AAPS HS (20)
+    - Headwaters (10)
+  locations:
+    - Capital Factory | 11:00&nbsp;-&nbsp;11:30 (Keynote)
+    - WeWork | 11:45&nbsp;-&nbsp;12:00
+    - Trendkite | 12:15&nbsp;-&nbsp;12:30
+    - Tech Stars | 12:45&nbsp;-&nbsp;1:00
+    - Austin Coding Academy | 1:15&nbsp;-&nbsp;1:30
+  chaperones:
+    - Rebecca Lee
+    - Joe Ten Brook

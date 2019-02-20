@@ -1,5 +1,5 @@
 body {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     color: #000000;
     background-color: #c6ced1;
 }
@@ -9,7 +9,7 @@ body {
 }
 
 .font-alt {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Fira Sans', sans-serif;
 }
 
 .size-1 {
@@ -21,7 +21,7 @@ body {
 }
 
 #hero {
-    background: linear-gradient( rgba(30, 0, 70, 0.7), rgba(0, 0, 0, 0.95) ), url('/assets/img/IMG_3812-compressed.jpg');
+    background: linear-gradient( rgba(30, 0, 70, 0.7), rgba(0, 0, 0, 0.9) ), url('/assets/img/IMG_3812-compressed.jpg');
     -webkit-background-size: cover;
     -moz-background-size:  cover;
     -o-background-size: cover;
@@ -32,10 +32,12 @@ body {
     min-height: 65vh;
 }
 
+.small-logo {
+    max-width: 120px;
+    max-height: 120px;
+}
+
 .logo-div {
     width: 200px;
     height: 200px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }

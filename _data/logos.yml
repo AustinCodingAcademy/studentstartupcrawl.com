@@ -18,11 +18,11 @@
   width: "2208px"
   height: "2104px"
 
-- href: "https://www.chipper.app"
-  alt: "Chipper Logo"
-  src: "/assets/img/logo/chipper-logo-white.png"
-  width: "208px"
-  height: "52px"
+- href: "#"
+  alt: "Code Monkey Logo"
+  src: "/assets/img/logo/code-monkey.png"
+  width: "300px"
+  height: "300px"
 
 - href: "https://www.divinc.org"
   alt: "Div Inc Logo"
@@ -36,6 +36,12 @@
   width: "186px"
   height: "37px"
 
+- href: "#"
+  alt: "EdTech Austin Logo"
+  src: "/assets/img/logo/edtech.png"
+  width: "225px"
+  height: "225px"
+
 - href: "https://www.galvanize.com"
   alt: "Galvanize Logo"
   src: "https://s3-us-west-2.amazonaws.com/galvanize.com-dev/galvanize-logo.svg"
@@ -47,12 +53,6 @@
   src: "/assets/img/logo/google.png"
   width: "200px"
   height: "200px"
-
-- href: "https://www.modernize.com"
-  alt: "Modernize Logo"
-  src: "/assets/img/logo/modernize-black.png"
-  width: "220px"
-  height: "50px"
 
 - href: "https://www.retaimenot.com"
   alt: "RetailMeNot Logo"

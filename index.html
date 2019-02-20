@@ -2,59 +2,78 @@
 layout: default
 ---
 
-<header
-    id="hero"
-    class="font-alt d-flex flex-column justify-content-center w-100"
->
-    <h1 class="text-center text-light display-4 mb-4"
-        amp-fx="parallax"
-        data-parallax-factor="1.15">
-        Student Start-Up Crawl
-    </h1>
-
-    <h2 class="text-center text-muted size-1"
-        amp-fx="parallax"
-        data-parallax-factor="1.15">
-        Austin, TX
-    </h2>
-    <div class="my-4"></div>
-</header>
-
-
 <div class="container border-left">
 
     <div class="row my-5">
+
         <div class="col-12 py-5 px-md-5">
+
             <p class="w-75 text-center text-md-left mx-auto">
-                ATX Student Startup Crawl is a free experiential field trip for middle and high school students in the larger Austin metro area, to help them visualize their futures and introduce them to what careers are available in  STEM.  We are working with companies across the spectrum, from Techstars to RetailMeNot to introduce students to opportunities in Austin.
+                ATX Student Startup Crawl is a free experiential field trip for
+                middle and high school students in the larger Austin metro area,
+                to help them visualize their futures and introduce them to what
+                careers are available in  STEM.  We are working with companies
+                across the spectrum, from Techstars to RetailMeNot, to introduce
+                students to opportunities in Austin.
             </p>
 
-            <p class="w-75 text-center text-md-left mx-auto text-muted">
-                <small>
-                    <b>EdTech Austin</b> is the hub for amazing keynotes, panel discussions, edtech mixers, member spotlights, and hands-on learning experiences that inspire teachers, entrepreneurs, technologists, education reformers, and edtech enthusiasts to connect, collaborate, and innovate.
-                </small>
-            </p>
+            <div class="row pl-5 my-4 d-flex justify-content-center">
+                <div class="col-5 small-logo d-flex justify-content-center align-items-center">
+                    <amp-img
+                        src="assets/img/logo/edtech.png"
+                        alt="EdTech Austin Logo"
+                        title="EdTech Austin"
+                        width="300px"
+                        height="300px"
+                        class="mw-100 mh-100"
+                        layout="intrinsic">
+                    </amp-img>
+                </div>
+                <p class="col-7 text-left m-0 text-muted">
+                    <small>
+                        <b>EdTech Austin</b> is the hub for amazing keynotes, panel discussions, edtech mixers, member spotlights, and hands-on learning experiences that inspire teachers, entrepreneurs, technologists, education reformers, and edtech enthusiasts to connect, collaborate, and innovate.
+                    </small>
+                </p>
+            </div>
 
-            <p class="w-75 text-center text-md-left mx-auto text-muted">
-                <small>
-                    <b>Mouse</b> is a national youth development nonprofit that believes in technology as a force for good.
-                </small>
-            </p>
+            <div class="row pl-5 d-flex justify-content-center">
+                <div class="col-5 small-logo d-flex justify-content-center align-items-center">
+                    <amp-img
+                        src="assets/img/logo/mouse.png"
+                        alt="Mouse Logo"
+                        title="Mouse"
+                        width="344px"
+                        height="110px"
+                        class="mw-100 mh-100"
+                        layout="intrinsic">
+                    </amp-img>
+                </div>
+                <p class="col-7 text-left text-muted">
+                    <small>
+                        <b>Mouse</b> is a national youth development nonprofit that believes in technology as a force for good.
+                    </small>
+                </p>
+            </div>
+
         </div>
 
         <div class="col-12 py-5 text-center">
-            <a
-                href="https://www.eventbrite.com/e/atx-student-start-up-crawl-tickets-53350943107"
-                class="btn btn-success btn-lg"
-                target="_blank">
-                Register now on EventBrite! <i class="fas fa-arrow-circle-right"></i>
+            <a href="/schedule/" class="btn btn-primary btn-lg">
+                View the schedule <i class="fas fa-arrow-circle-right"></i>
             </a>
         </div>
+
     </div>
 
-    <h3 class="text-center my-5 mx-auto size-2">
-        Our sponsors:
+    <h3 class="text-center  my-5 mx-auto size-2">
+        Participating companies:
     </h3>
 
     {% include logo-section.html %}
+
+    <div class="row mt-5">
+        <p class="text-center mx-auto font-alt text-muted">
+            Site built by <a href="https://austincodingacademy.com">Austin Coding Academy</a>
+        </p>
+    </div>
 </div>
