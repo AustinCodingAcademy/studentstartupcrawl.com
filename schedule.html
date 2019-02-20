@@ -6,27 +6,31 @@ permalink: /schedule/
 <div class="container">
 
     <div class="row table-responsive">
+
         <h5 class="col-12 size-1 text-center text-white my-5">
             Event Schedule
         </h5>
 
         <table class="table table-sm">
+
             <thead>
                 <tr>
                 <th scope="col">Group #</th>
                 <th scope="col">Schools (# students)</th>
-                <th scope="col">Locations</th>
-                <!-- <th scope="col">Time</th> -->
-                <!-- <th scope="col">Route (A/B)</th> -->
+                <th scope="col">Locations (click for map)</th>
                 <th scope="col">Chaperones</th>
                 </tr>
             </thead>
+
             <tbody>
+
                 {% for schedule in site.data.schedule %}
                 <tr>
+
                 <th scope="row">
                     {{schedule.group}}
                 </th>
+
                 <td>
                     <ul class="list-unstyled border-right">
                         {% for school in schedule.schools %}
@@ -38,6 +42,7 @@ permalink: /schedule/
                         {% endfor %}
                     </ul>
                 </td>
+
                 <td>
                     <ul class="list-unstyled border-right">
                         {% for location in schedule.locations %}
@@ -49,17 +54,7 @@ permalink: /schedule/
                         {% endfor %}
                     </ul>
                 </td>
-                <!-- <td>
-                    <ul class="list-unstyled">
-                        {% for time in schedule.times %}
-                            <li>{{time}}</li>
-                            <hr>
-                        {% endfor %}
-                    </ul>
-                </td> -->
-                <!-- <td>
-                    {{schedule.route}}
-                </td> -->
+
                 <td>
                     <ul class="list-unstyled">
                         {% for chap in schedule.chaperones %}
@@ -71,9 +66,12 @@ permalink: /schedule/
                         {% endfor %}
                     </ul>
                 </td>
+
                 </tr>
                 {% endfor %}
+
             </tbody>
+
         </table>
     </div>
 
@@ -82,4 +80,5 @@ permalink: /schedule/
             Site built by <a href="https://austincodingacademy.com">Austin Coding Academy</a>
         </p>
     </div>
+
 </div>
